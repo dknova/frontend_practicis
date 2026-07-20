@@ -30,6 +30,7 @@ p{
     color: orange;
 }
 #b{
+
     color: purple;
 }
 #c{
@@ -145,7 +146,7 @@ p{
     height: 100px;
     background-color: green;
 }
-.box4{
+/* .box4{
     width:600px;
     max-width: 300px;
     background-color: orange;
@@ -153,16 +154,213 @@ p{
 }
  */
 
- .box1{
+ /* .box1{
     width: 200px;
     height: 100px;
     background-color: red;
     margin: 30px;
- }
 
- .box2{
+
+
+
+
+
+
+ */
+
+ /* .Box1{
+    height: 150px;
+    width: 150px;
+    background-color: purple;
+    position: relative;
+    left: 100px;
+    top: 100px;
+ } */
+
+
+
+/* 
+.Box1{
+    height: 400px;
+    width: 300px;
+    background-color: purple;
+    position: relative;
+    top:100px */
+/* } */
+/* .Box2{
+    height: 100px;
+    width: 100px;
+    background-color: peru;
+    position:absolute;
+    top: 0px;
+    left: 0px;
+} */
+/* .a{
+    position: sticky;
+    top: 0px;
+    background-color: purple;
+}
+p{
+    color: red;
+} */
+
+/* .Box1{
+    height: 400px;
+    width: 400px;
+    background-attachment: lightblue;
+    position: absolute;
+    z-index: 2;
+    top: 50px;
+    left: 50px
+}
+
+.Box2{
+    position: absolute;
+    z-index: 1;
+      height: 400px;
+    width: 400px;
+    background-attachment: purple;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+} */
+
+/* .Box1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+
+    position: absolute;
+    left: 50px;
+    top: 50px;
+
+    z-index: 2;
+}
+/* 
+.Box2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+
+    position: absolute;
+    left: 100px;
+    top: 100px;
+
+    z-index: 1;
+}
+ 
+
+gdsrfv */
+
+/* 
+.Container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: lightblue;
+    align-items: center;
+    gap: 100px;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    background-color: orange;
+}
+.box1{
+    flex-grow: 5;
+}
+
+.box2{
+    flex-shrink: 0;
+} */
+
+/* 
+.Container{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 100px 500px;
+} */
+
+/* 
+.Container {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+
+    grid-template-rows: 100px 200px;
+    gap: 30;
+}
+
+/* .box{
+    border: 2px solid black;
+    background-color: green;
+
+} 
+.html{
+    grid-column: span 2;
+    grid-row: span 2;
+}
+
+
+
+.titles{
+    font-size: 40px;
+ } */
+
+ /* .titles{
+    font-size: 60px;
+    font-family: Georgia;
+    font-weight: 100;
+    text-align: center;
+    text-transform: uppercase
+ } */
+
+/* .skills{
+    list-style: circle inside;
+} */
+
+/* .btn{
+    cursor: pointer;
+}
+.btn1{
+    cursor: pointer;
+}
+
+.btn2{
+    cursor:not-allowed
+} */
+/* 
+.Box{
     width: 200px;
     height: 100px;
-    background-color: blue;
-    margin: 30px;
- }
+    overflow: auto;
+    border: 2px solid black;
+} */
+
+/* .box{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    background-color: lightgreen;
+    box-shadow: 5px 5px 100px blue
+} */
+ 
+/* .main{
+    .title {
+    text-shadow: 3px 3px 5px gray;
+} */
+
+/* .main{
+    text-shadow: 3px 3px 10px green;
+} */
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: goldenrod;
+    transform: rotate(90deg);
+    transform: skewY(20deg);
+    
+}
